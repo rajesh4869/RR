@@ -25,4 +25,3 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
-git add . && git commit -m "feat: initiated the project" && git push origin main
